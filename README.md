@@ -12,4 +12,4 @@ The 3 modules are made up of 115 exercises.
 
 <a href="https://github.com/marianarubia/Python-exercises">Exercises</a>
 
-<img src="https://www.cursoemvideo.com/wp-content/uploads/2019/08/cursoemvideo-logo.png" alt="http://www.https://www.cursoemvideo.com">
+<img src="https://www.cursoemvideo.com/wp-content/uploads/2019/08/cursoemvideo-logo.png" href="https://www.cursoemvideo.com">
