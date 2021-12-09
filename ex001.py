@@ -1,5 +1,5 @@
 print('Olá mundo!')
 
-msg = 'Olá mundo!'
-print(msg)
+# msg = 'Olá mundo!'
+# print(msg)
 
