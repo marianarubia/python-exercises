@@ -1,5 +1,5 @@
 # Python-Exercises
-Proposed Python exercises based on the video course. Totally free video lessons, created by Professor Gustavo Guanabara.
+Proposed Python exercises based on Curso em Vídeo. Totally free video lessons, created by Professor Gustavo Guanabara.
 
 # Python 3
 The Python 3 course is divided into three modules.
